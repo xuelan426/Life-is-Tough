@@ -2,7 +2,7 @@
 
 
 
-### Algo Comparison
+### Resouces 
 
 [Deep Language Modeling for Question Answering using Keras](https://codekansas.github.io/blog/2016/language.html)
 [QA问答系统中的深度学习技术实现](www.52nlp.cn/qa问答系统中的深度学习技术实现)
