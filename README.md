@@ -15,3 +15,8 @@
 [How to Make a Chatbot - Intro to Deep Learning #12](https://www.youtube.com/watch?v=t5qgjJIBy9g&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3&index=22)
 
 [揭开知识库问答KB-QA的面纱](https://zhuanlan.zhihu.com/p/25735572)
+
+中文论文 http://www.docin.com/p-916225096.html?docfrom=rrela
+ppt介绍 https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/folien/SS11/Search_Engines/QuestionAnswering-SaeedehMomtazi.pdf
+
+可能有用 https://blog.csdn.net/QFire/article/details/78645591
